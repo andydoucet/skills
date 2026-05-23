@@ -1,0 +1,4 @@
+interface:
+  display_name: "Code Structure"
+  short_description: "Separate actions from shared service mechanics"
+  default_prompt: "Use $code-structure to decide what belongs in actions versus shared services before refactoring repeated operational logic."
