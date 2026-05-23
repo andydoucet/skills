@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cut Release"
+  short_description: "Audit, package, tag, and report releases"
+  default_prompt: "Use $cut-release to audit and cut the next approved release."
